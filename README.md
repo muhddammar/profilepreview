@@ -1,9 +1,5 @@
 # Poetic Phrase Generator
 Create AI-generated witty and satirical poetic phrases based on your favorite activities and placed to visit.
-```
-npm install
-npm start
-```
 
 ## About Scrimba
 
